@@ -12,7 +12,7 @@ in Padua Italy April 28./29. 2016.
 
 ## Design
 
-Web design is based on the free template (named Solid State) provided
-by html5up at (http://html5up.net/solid-state ). The design is
+Web design is based on the free template (named Landed) provided
+by html5up at (http://html5up.net/landed ). The design is
 published under the Commons Creative Commons Attribution 3.0 Unported
 License (http://creativecommons.org/licenses/by/3.0/ ).
