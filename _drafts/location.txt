@@ -1,0 +1,36 @@
+						<!-- Content -->
+							<div class="wrapper">
+								<div class="inner">
+								  <h3 class="major">How to arrive</h3>
+
+                                                                  <p><span class="image right"></span>
+                                                                    Padua is in the North East of Italy located about 40km south of Venice. It can be conveniently reached by car, train or plane.</br>
+                                                                    <b>Plane:</b> The closest larger airport is Venice Marco Polo from there one can reach Padova within about an hour either by direct Bus or Train (first going to Venice or Mestre Trainstation by Bus). Smaller nearby Airports are Treviso (TSF), and Verona (VRN). Airports in Bologna and Milan can be reached by express trains in about 2-3 hours.</br>
+                                                                    <b>Train:</b> Padova is a central railway node in the Veneto area. Many lines converge into the city central station, notably from: Venezia - which is only a 30-minute ride away, Bologna (Rome, Florence) and Milano. <a href="https://www.bahn.de">DB</a> and <a href="https://www.oebb.at/">OeBB</a> offer different day and night connections to Rome and Venice.</br>
+                                        
+                                                                    <b>Car:</b> Padova is connected through the national highway network: A4 - Torino-Milano-Venezia-Trieste and A13 - Bologna-Padova</br>
+                                                                    <b>Local Transport:</b> Padova is a very walkable city. On foot most distances within the center can be covered in less than 15 minutes. Walking to the train station from the University takes about 30 minutes. Public transport is provided by trams and busses. Directions and time schedules are searchable using <a href="https://maps.google.com">Google Maps</a>.
+</ul></br>
+
+                                                                    Source: <a href="http://wikitravel.org/en/Padova">wikitravel</a>
+                                                                  </p>
+
+
+<h3 class="major">Accomodation</h3>
+A list of nearby hotels will be published here soon.
+                                                                </div>
+                                                                
+</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
