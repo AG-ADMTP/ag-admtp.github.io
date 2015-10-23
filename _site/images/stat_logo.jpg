@@ -1,0 +1,462 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xml:lang="en"
+	lang="en"
+	dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="shortcut icon" href="/sites/default/files/dipartimento_favicon_0.ico" type="image/x-icon" />
+<meta name="author" content="dipartimento scienze statistiche" /><meta name="description" content="Dipartimento di Scienze Statistiche dell'Università di Padova" /><meta name="keywords" content="statistica padova dipartimento scienze statistiche ricerca dottorato pubblicazioni lauree triennali magistrali tecnologie economia impresa convegni corsi permanenti formazione insegnanti" /> <title>SCIENZE STATISTICHE | Universa Universis Patavina libertas</title>
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/eu-cookie-compliance/css/eu_cookie_compliance.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/dipartimento/style.css?f" />
+<link type="text/css" rel="stylesheet" media="print" href="/themes/dipartimento/print.css?f" />
+<script type="text/javascript" src="/misc/jquery.js?f"></script>
+<script type="text/javascript" src="/misc/drupal.js?f"></script>
+<script type="text/javascript" src="/sites/all/modules/poormanscron/poormanscron.js?f"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?f"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?f"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "cron": { "basePath": "/en/poormanscron", "runNext": 1445622384 }, "viewsSlideshowSingleFrame": { "#views_slideshow_singleframe_main_slideshow-block_2": { "num_divs": 1, "id_prefix": "#views_slideshow_singleframe_main_", "div_prefix": "#views_slideshow_singleframe_div_", "vss_id": "slideshow-block_2", "timeout": 10000, "sort": 1, "effect": "fade", "speed": 700, "start_paused": 0, "delay": 0, "fixed_height": 1, "random": 0, "pause": 1, "pause_on_click": 0, "pause_when_hidden": 0, "pause_when_hidden_type": "full", "amount_allowed_visible": "", "remember_slide": 0, "remember_slide_days": 1, "controls": 0, "items_per_slide": 1, "pager": 1, "pager_type": "Numbered", "pager_hover": 1, "pager_click_to_page": 0, "image_count": 0, "nowrap": 0, "sync": 1, "advanced": "", "ie": { "cleartype": "true", "cleartypenobg": "false" } } } });
+//--><!]]>
+</script>
+<!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/themes/dipartimento/fix-ie.css" />    <![endif]-->
+<link href="/themes/dipartimento/fonts/cuprum.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body  class="sidebar-left">
+<div id="dip_container"><!-- Mg reduce width and print headers-region -->
+
+<div id="wrapper">
+<div id="container" class="clear-block">
+<div id="cont_header">
+<div id="header-region" class="clear-block"><div id="block-locale-0" class="clear-block block block-locale">
+
+  <h2>Languages</h2>
+
+  <div class="content"><ul><li class="en first active"><a href="/en" class="language-link active">EN</a></li>
+<li class="it last"><a href="/" class="language-link">IT</a></li>
+</ul></div>
+</div>
+<div id="block-menu-secondary-links" class="clear-block block block-menu">
+
+  <h2>Secondary links</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="https://uniweb.unipd.it/Home.do;jsessionid=496AEDE8929612F6DABDF3370DE96AE8.jvm3c?cod_lingua=eng" title="Uniweb">Uniweb</a></li>
+<li class="leaf"><a href="/en/dipartimento/webmail" title="Webmail del dipartimento di Statistica">Webmail</a></li>
+<li class="leaf"><a href="http://biblioteca.stat.unipd.it" title="Library">Library</a></li>
+<li class="leaf"><a href="http://www.unipd.it/en/research/departments" title="Departments">Departments</a></li>
+<li class="leaf last"><a href="http://www.unipd.it/en" title="Unipd.it/en">Unipd.it/en</a></li>
+</ul></div>
+</div>
+</div>
+<div id="header">
+<div id="logo-floater"><a  href="http://www.unipd.it" title="Università di Padova"><img src="/themes/dipartimento/logo.jpg" alt="logo unipd" /></a><a  class="titolo" accesskey="h" href="/en" title="SCIENZE STATISTICHE"><img src="/sites/default/files/dipartimento_logo.png" alt="SCIENZE STATISTICHE" id="logo" /><span>DEPARTMENT OF STATISTICAL SCIENCES </span></a></div>
+<div class="div-clear"></div>
+<!-- MG form on header -->
+<br />
+<div id="search-box"><form action="/en"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-ylUn5f0r3ALpEDPSOgRtYUq_iSV8iIFZGwu5n2QtmC0" value="form-ylUn5f0r3ALpEDPSOgRtYUq_iSV8iIFZGwu5n2QtmC0"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>
+<!-- /search-box --><div class="div-clear"></div>
+<!-- /header -->
+<div id="menu_container"> <!-- PRIMARY -->
+<div id="block-menu-primary-links" class="clear-block block block-menu">
+
+  <h2>Primary links</h2>
+
+  <div class="content"><ul class="menu"><li class="expanded first"><a href="/en/department/overview" title="">DEPARTMENT</a><ul class="menu"><li class="leaf first"><a href="/en/department/overview" title="">Overview</a></li>
+<li class="leaf"><a href="/en/department/people" title="">People</a></li>
+<li class="leaf"><a href="/en/department/getting-here" title="">Getting here</a></li>
+<li class="leaf"><a href="http://www.unipd.it/en/discovering-padova/getting-around" title="">Getting around</a></li>
+<li class="leaf"><a href="/en/department/on-campus" title="">On campus</a></li>
+<li class="leaf"><a href="/en/department/guests-with-special-needs" title="">Guests with special needs</a></li>
+<li class="leaf last"><a href="/en/department/international-area" title="International area">International area</a></li>
+</ul></li>
+<li class="leaf"><a href="/en/fare-ricerca/dottorato-di-ricerca" title="">PhD programme</a></li>
+<li class="expanded"><a href="/en/courses/courses" title="Courses">COURSES</a><ul class="menu"><li class="leaf first"><a href="/en/courses/bachelor-courses" title="">Bachelor&#039;s courses</a></li>
+<li class="leaf"><a href="/en/courses/master-course" title="Master courses">Master&#039;s course</a></li>
+<li class="leaf"><a href="/en/courses/extra-departmental-courses" title="">Extra-departmental courses</a></li>
+<li class="leaf last"><a href="/en/courses/courses-held-in-english" title="">Courses held in English</a></li>
+</ul></li>
+<li class="expanded"><a href="/en/research/research" title="Research">RESEARCH</a><ul class="menu"><li class="leaf first"><a href="/en/do-research/research-areas" title="">Research areas</a></li>
+<li class="leaf"><a href="/en/do-research/research-projects" title="">Research projects</a></li>
+<li class="leaf"><a href="http://www.stat.unipd.it/fare-ricerca/wp-tr" title="">Working papers/Technical reports</a></li>
+<li class="leaf"><a href="/en/fare-ricerca/dottorato-di-ricerca" title="">PhD programme</a></li>
+<li class="leaf last"><a href="/en/research/research-opportunities" title="">Research opportunities</a></li>
+</ul></li>
+<li class="expanded"><a href="/en/services/services" title="Services">SERVICES</a><ul class="menu"><li class="leaf first"><a href="/en/services/offices" title="">Offices</a></li>
+<li class="leaf"><a href="/en/services/computing-facilities" title="">Computing facilities</a></li>
+<li class="leaf"><a href="http://biblioteca.stat.unipd.it/" title="">Departmental library</a></li>
+<li class="leaf"><a href="http://bibliotecadigitale.cab.unipd.it/en/" title="">Padua Digital Library</a></li>
+<li class="leaf"><a href="http://www.cla.unipd.it/" title="">University Language Centre</a></li>
+<li class="leaf"><a href="http://wifi.stat.unipd.it" title="">WiFi</a></li>
+<li class="leaf"><a href="/en/services/mailbox" title="">Mailbox</a></li>
+<li class="leaf"><a href="/en/services/feed-rss" title="">Feed RSS</a></li>
+<li class="leaf last"><a href="/en/services/glossary" title="">Glossary</a></li>
+</ul></li>
+<li class="leaf"><a href="http://www.unipd.it/en/discovering-padova-0" title="Discovering Padua">DISCOVERING PADUA</a></li>
+<li class="leaf last"><a href="http://www.unipd.it/international-area/" title="International area">INTERNATIONAL AREA</a></li>
+</ul></div>
+</div>
+ </div>
+<!-- end menu --></div>
+<!-- /header --></div>
+<!-- /cont_header -->
+<div class="div-clear"></div>
+<div id="slideshow-wrapper">
+<div class="slideshow-inner"><!-- ********************* -->
+<div id="slideshow-preface"><img id="bg-red"
+	src="/themes/dipartimento/images/bg-red-rule.jpg"
+	alt="barra decorativa" /></div>
+<!-- fine preface in slideshow-preface -->  <!--  fine mission in slideshow-bottom  -->
+<div class="slideshow"><div id="block-views-slideshow-block_2" class="clear-block block block-views">
+
+
+  <div class="content"><div class="view view-slideshow view-id-slideshow view-display-id-block_2 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      
+
+  <div class="views-slideshow-controls-top clear-block">
+        <div class="views_slideshow_singleframe_pager views_slideshow_pagerNumbered" id="views_slideshow_singleframe_pager_slideshow-block_2"></div>      </div>
+
+<div id="views_slideshow_singleframe_main_slideshow-block_2" class="views_slideshow_singleframe_main views_slideshow_main"><div id="views_slideshow_singleframe_teaser_section_slideshow-block_2" class="views_slideshow_singleframe_teaser_section"><div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_singleframe_div_slideshow-block_2_0"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-body">
+                <div class="field-content"><p>&nbsp;</p>
+<p><a href="http://www.stat.unipd.it/en/study/studying-statistics"><img src="/sites/default/files/img/sara_caso_eng.jpg" alt="Statistics...just by chance?" title="Statistics...just by chance?" width="648" height="289" /></a></p>
+<p><a href="http://www.stat.unipd.it/en/study/studying-statistics" title="Statistics...just by chance?" class="preface"><span></span><br /><span class="arrow-red"> &gt;</span></a></p></div>
+  </div>
+
+</div>
+</div>
+</div>
+</div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+<noscript>
+<p><a href="/eventi" title="Page eventi" class="preface-nojs">Your
+browser does not support JavaScript! See all events</a></p>
+</noscript>
+</div>
+<!--  fine slideshow  --></div>
+<!--  fine slideshow inner  -->
+<!-- ***** international area ****  -->
+<div class="slideshow-international">
+<div id="area-international">
+<div id="block-block-22" class="clear-block block block-block">
+
+
+  <div class="content"><div class="slideshow-international-hd"><a href="en/department/international-area" title="International Area"> International<br />Area</a></div>
+<div class="slideshow-international-text">Information for incoming <br /> students and scholars</div>
+<p><a href="en/department/international-area" title="international incoming"><span class="arrow-inter">&gt;</span></a></p>
+<div></div>
+</div>
+</div>
+</div>
+<!-- **** end ****  -->
+<!-- comunicazioni -->
+<div class="slideshow-news">
+ <div id="block-views-news-block_2" class="clear-block block block-views">
+
+  <h2>News</h2>
+
+  <div class="content"><div class="view view-news view-id-news view-display-id-block_2 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ol>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/en/content/phd-course-statistics-cycle-xxxi-opening">PhD Course in Statistics: Cycle XXXI Opening</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/en/content/matematica-classe">Matematica in classe</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/en/content/seminar-benefit-low-emission-zone-munich-and-impact-particulate-matter-human-health">Seminar: Benefit of the Low Emission Zone in Munich and Impact...</a></span>
+  </div>
+</li>
+      </ol>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+<a href="news" title="Pagina delle comunicazioni" <span class="arrow-green">&gt;</span></a>
+<!-- /comunicazioni -->
+</div>
+<div class="div-clear"></div>
+</div>
+
+<div class="div-clear"></div>
+<div id="preface-wrapper"
+	class="in4">
+<div class="column A"><div id="block-block-5" class="clear-block block block-block">
+
+
+  <div class="content"><p><img src="./themes/dipartimento/images/blocco_studiareen.jpg" alt="image study" /></p>
+</div>
+</div>
+<div id="block-menu-menu-studiare" class="clear-block block block-menu">
+
+  <h2>Studiare</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/en/study/studying-statistics" title="">Studying Statistics</a></li>
+<li class="leaf"><a href="/en/study/studying-in-padova" title="">Studying in Padova</a></li>
+<li class="leaf"><a href="http://www.unipd.it/en/how-apply" title="">How to apply</a></li>
+<li class="leaf"><a href="/en/courses/courses" title="">Courses</a></li>
+<li class="leaf"><a href="/en/study/key-academic-dates" title="">Key academic dates</a></li>
+<li class="leaf"><a href="/en/study/class-and-exam-schedules" title="">Class and exam schedules</a></li>
+<li class="leaf"><a href="https://didattica.stat.unipd.it/?lang=en" title="">E-learning</a></li>
+<li class="leaf"><a href="/en/study/news-didatics" title="">News</a></li>
+<li class="leaf"><a href="/en/study/interships" title="">Internships</a></li>
+<li class="leaf"><a href="/en/study/erasmus-and-other-exchange-programmes" title="">Erasmus and other exchange programmes</a></li>
+<li class="leaf last"><a href="/en/study/incoming-students" title="">Incoming students</a></li>
+</ul></div>
+</div>
+</div>
+ <div class="column B"><div id="block-block-7" class="clear-block block block-block">
+
+
+  <div class="content"><p><img src="./themes/dipartimento/images/blocco_ricercaen.jpg" alt="image research" /></p>
+</div>
+</div>
+<div id="block-menu-menu-farericerca" class="clear-block block block-menu">
+
+  <h2>Fare-Ricerca</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/en/research/research" title="">General outlook</a></li>
+<li class="leaf"><a href="/en/do-research/research-areas" title="">Research areas</a></li>
+<li class="leaf"><a href="/en/do-research/research-projects" title="">Research projects</a></li>
+<li class="leaf"><a href="/en/do-research/seminars" title="">Seminars</a></li>
+<li class="leaf"><a href="/en/do-research/conferenceworkshop" title="">Conferences and workshops</a></li>
+<li class="leaf"><a href="/en/do-research/visitors" title="">Visitors</a></li>
+<li class="collapsed"><a href="/en/fare-ricerca/dottorato-di-ricerca" title="">PhD Programme</a></li>
+<li class="collapsed"><a href="/en/fare-ricerca/basi-di-dati" title="">Databases</a></li>
+<li class="leaf"><a href="/en/research/research-opportunities" title="">Research opportunities</a></li>
+<li class="leaf last"><a href="/en/do-research/incoming-scholars" title="">Incoming scholars</a></li>
+</ul></div>
+</div>
+</div>
+ <div class="column C"><div id="block-block-9" class="clear-block block block-block">
+
+
+  <div class="content"><p><img src="./themes/dipartimento/images/blocco_lavorareen.jpg" alt="image work" /></p>
+</div>
+</div>
+<div id="block-menu-menu-lavorare" class="clear-block block block-menu">
+
+  <h2>Lavorare</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/en/work/calls-and-open-positions" title="">Calls and open positions</a></li>
+<li class="leaf last"><a href="http://www.unipd.it/en/internships-and-job-placement" title="">Job placement</a></li>
+</ul></div>
+</div>
+</div>
+ <!-- Blocco AVVISI - regione nuova -->
+<div class="column D">
+<div id="bandi"> <!-- Bandi  -->
+<div id="block-views-bandi-block_2" class="clear-block block block-views">
+
+  <h2>Calls</h2>
+
+  <div class="content"><div class="view view-bandi view-id-bandi view-display-id-block_2 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ol>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/en/content/d-r-n-32152015-del-30092015-costituzione-della-commissione-giudicatrice-della-procedura-sele">D. R. n. 3215/2015 del 30.09.2015: Costituzione della commissione giudicatrice della procedura...</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/en/content/d-r-n-31072015-relativo-alla-costituzione-della-commissione-giudicatrice-della-procedura-sel">D. R. n. 3107/2015 relativo alla costituzione della commissione giudicatrice della procedura...</a></span>
+  </div>
+</li>
+      </ol>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+</div>
+<!-- /comunicazioni -->
+<div><a class="arrow-green-small" href="bandi" title="Pagina dei Bandi">&gt;</a><br />
+</div>
+<br />
+<div id="areamoodle"><div id="block-block-19" class="clear-block block block-block">
+
+
+  <div class="content"><p><img src="./themes/dipartimento/images/blocco_moodle.jpg" alt="login moodle" id="img_areariservata" /></p>
+<h3><a href="https://didattica.stat.unipd.it/" title="Login moodle"> <span class="icon areariservata"> Moodle
+<p></p></span></a></h3>
+<p><span class="description">Use the EMAIL login and password</span></p>
+</div>
+</div>
+</div>
+<!-- /medium -->
+<div><a class="arrow"
+	href="https://didattica.stat.unipd.it"
+	title="Sito della didattica">&gt;</a> <br />
+</div>
+<br />
+</div>
+<!-- /column D --> 
+<div class="div-clear"></div>
+<img id="barra_dec"
+	src="/themes/dipartimento/images/blocco_bar.jpg"
+	width="100%" alt="barra decorativa" /></div>
+ <!--  MG barra hr  --> <div id="block-area_riservata-1" class="clear-block block block-area_riservata">
+
+
+  <div class="content"><div class="bottomstrip clearfix"><div class="mainlinks"><h3><a href="http://biblioteca.stat.unipd.it/" class="icobook">Library </a></h3><h3><a href="department/public-procurement/" class="icobook">Public Procurement </a></h3><h3><a href="./user/login" class="icoareariservata-gray">Signin</a></h3></div><div class="rightlinks"><ul class="clearfix"><li><h3><a href="dipartimento/persone">staff</a></h3></li></ul></div></div></div>
+</div>
+<div id="footerlinks">
+<div id="footermain"><div id="block-menu-footer" class="clear-block block block-menu">
+
+  <h2>Primary links</h2>
+
+  <div class="content"><ul class="menu"><li class="expanded first"><a href="/en/department/overview" title="">DEPARTMENT</a><ul class="menu"><li class="leaf first"><a href="/en/department/overview" title="">Overview</a></li>
+<li class="leaf"><a href="/en/department/people" title="">People</a></li>
+<li class="leaf"><a href="/en/department/getting-here" title="">Getting here</a></li>
+<li class="leaf"><a href="http://www.unipd.it/en/discovering-padova/getting-around" title="">Getting around</a></li>
+<li class="leaf"><a href="/en/department/on-campus" title="">On campus</a></li>
+<li class="leaf"><a href="/en/department/guests-with-special-needs" title="">Guests with special needs</a></li>
+<li class="leaf last"><a href="/en/department/international-area" title="International area">International area</a></li>
+</ul></li>
+<li class="leaf"><a href="/en/fare-ricerca/dottorato-di-ricerca" title="">PhD programme</a></li>
+<li class="expanded"><a href="/en/courses/courses" title="Courses">COURSES</a><ul class="menu"><li class="leaf first"><a href="/en/courses/bachelor-courses" title="">Bachelor&#039;s courses</a></li>
+<li class="leaf"><a href="/en/courses/master-course" title="Master courses">Master&#039;s course</a></li>
+<li class="leaf"><a href="/en/courses/extra-departmental-courses" title="">Extra-departmental courses</a></li>
+<li class="leaf last"><a href="/en/courses/courses-held-in-english" title="">Courses held in English</a></li>
+</ul></li>
+<li class="expanded"><a href="/en/research/research" title="Research">RESEARCH</a><ul class="menu"><li class="leaf first"><a href="/en/do-research/research-areas" title="">Research areas</a></li>
+<li class="leaf"><a href="/en/do-research/research-projects" title="">Research projects</a></li>
+<li class="leaf"><a href="http://www.stat.unipd.it/fare-ricerca/wp-tr" title="">Working papers/Technical reports</a></li>
+<li class="leaf"><a href="/en/fare-ricerca/dottorato-di-ricerca" title="">PhD programme</a></li>
+<li class="leaf last"><a href="/en/research/research-opportunities" title="">Research opportunities</a></li>
+</ul></li>
+<li class="expanded"><a href="/en/services/services" title="Services">SERVICES</a><ul class="menu"><li class="leaf first"><a href="/en/services/offices" title="">Offices</a></li>
+<li class="leaf"><a href="/en/services/computing-facilities" title="">Computing facilities</a></li>
+<li class="leaf"><a href="http://biblioteca.stat.unipd.it/" title="">Departmental library</a></li>
+<li class="leaf"><a href="http://bibliotecadigitale.cab.unipd.it/en/" title="">Padua Digital Library</a></li>
+<li class="leaf"><a href="http://www.cla.unipd.it/" title="">University Language Centre</a></li>
+<li class="leaf"><a href="http://wifi.stat.unipd.it" title="">WiFi</a></li>
+<li class="leaf"><a href="/en/services/mailbox" title="">Mailbox</a></li>
+<li class="leaf"><a href="/en/services/feed-rss" title="">Feed RSS</a></li>
+<li class="leaf last"><a href="/en/services/glossary" title="">Glossary</a></li>
+</ul></li>
+
+</ul></div>
+</div>
+</div>
+<!-- end footermain -->
+<div id="columnright">
+<div class="columntitle"><div id="block-block-13" class="clear-block block block-block">
+
+
+  <div class="content"><h3>Department of Statistical Sciences</h3>
+<p><span class="address">via C. Battisti, 241; I-35121 Padua, Italy<br /></span></p>
+<p><span class="address"><strong style="line-height: 20.3999996185303px;">Opening hours</strong></span></p>
+<p><span class="address"><strong>Department</strong>:<br />Monday - Friday 8.00 - 17.30<br /><strong>Building</strong>:<br />Monday - Friday 7.30 - 19.00 - <br />Sat 7.30 - 13.30&nbsp;</span></p>
+<p><span class="address"><strong>Phone:</strong><br />+39 049 827 4168<br /><strong>Fax</strong><br />+39 049 827 4170<br /><strong>Email:</strong><br /> <a href="mailto:dipstat@stat.unipd.it">dipstat@stat.unipd.it</a><br /><strong>Administrative Offices</strong><br /><a href="mailto:scienzestatistiche@unipd.it">scienzestatistiche@unipd.it</a><br /><strong>Certified Email:</strong><br /> <a href="mailto:dipartimento.stat@pec.unipd.it">dipartimento.stat@pec.unipd.it</a><br /><strong>Webmaster:</strong><br /> <a href="mailto:webmaster@stat.unipd.it">webmaster@stat.unipd.it</a></span><br />
+<div class="upstore">
+<h3><a href="http://www.unipd.it/upstore/index.html">Upstore</a></h3>
+<p><span>The store of the University of Padova</span></p></div>
+</p></div>
+</div>
+ <a class="arrow"
+	href="http://www.unipd.it/upstore/index.html" title="upstore di Unipd">&gt;</a></div>
+</div>
+<!-- /columnright -->
+<div class="div-clear"></div>
+</div>
+<!-- end footerlinks -->
+
+<div id="footerservice"><div id="block-block-15" class="clear-block block block-block">
+
+
+  <div class="content"><p><span>© 2011 University of Padua - All rights reserved</span></p>
+<ul>
+<li>&nbsp;|&nbsp;<a href="../privacy" title="Policy privacy">Privacy Policy</a></li>
+<li>&nbsp;|&nbsp;<a href="../usabilita" title="Compatibility">compatibility</a></li>
+<li>&nbsp;|&nbsp;<a href="../accesskey" title="Access key">access key</a></li>
+</ul>
+<ul>
+<li><img src="/themes/dipartimento/images/vamola.jpg" alt="Vamola validator" width="70" height="25" /></li>
+<li><a href="http://www.w3.org/WAI/WCAG2AA-Conformance" title="Explanation of WCAG 2.0 Level Double-A Conformance"><img src="/themes/dipartimento/images/wcag2AA.jpg" alt="Level Double-A conformance, W3C WAI Web Content Accessibility Guidelines 2.0" width="70" height="25" /></a></li>
+<li><a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.stat.unipd.it&amp;warning=0&amp;profile=css3"><img src="/themes/dipartimento/images/css.jpg" alt="CSS Valido!!!" width="70" height="25" /></a></li>
+<li><a href="http://validator.w3.org/check?uri=referer"><img src="/themes/dipartimento/images/xhtml.jpg" alt="Valid XHTML 1.0 Strict" width="70" height="25" /></a></li>
+</ul>
+</div>
+</div>
+<div id="footer"></div>
+</div>
+
+</div>
+</div>
+<!-- /container --></div>
+<!--  /wrapper --></div>
+<!--  /dip_container -->
+<!-- /layout -->
+
+<script type="text/javascript" src="/sites/all/modules/eu-cookie-compliance/js/eu_cookie_compliance.js?f"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "eu_cookie_compliance": { "popup_enabled": 1, "popup_agreed_enabled": 0, "popup_hide_agreed": 0, "popup_clicking_confirmation": 0, "popup_html_info": "\n\x3cdiv\x3e\n  \x3cdiv class =\"popup-content info\"\x3e\n    \x3cdiv id=\"popup-text\"\x3e\n      \x3ch2\x3eWe use cookies on this site to enhance your user experience\x3c/h2\x3e\n\x3cp\x3eBy continuing browsing you agree to use them.\x3c/p\x3e\n    \x3c/div\x3e\n    \x3cdiv id=\"popup-buttons\"\x3e\n      \x3cbutton type=\"button\" class=\"agree-button\"\x3eOK, I agree\x3c/button\x3e\n    \x3cbutton type=\"button\" class=\"find-more-button\"\x3eNo, give me more info\x3c/button\x3e\n    \x3c/div\x3e\n  \x3c/div\x3e\n\x3c/div\x3e\n", "popup_html_agreed": "\n\x3cdiv\x3e\n  \x3cdiv class =\"popup-content agreed\"\x3e\n    \x3cdiv id=\"popup-text\"\x3e\n      \x3cp\x3ei\x3c/p\x3e\n    \x3c/div\x3e\n    \x3cdiv id=\"popup-buttons\"\x3e\n      \x3cbutton type=\"button\" class=\"hide-popup-button\"\x3eHide \x3c/button\x3e\n    \x3cbutton type=\"button\" class=\"find-more-button\" \x3eMore info\x3c/button\x3e\n    \x3c/div\x3e\n  \x3c/div\x3e\n\x3c/div\x3e\n", "popup_height": "auto", "popup_width": "100%", "popup_delay": 1000, "popup_link": "/en/privacy", "popup_position": null, "popup_language": "en" } });
+//--><!]]>
+</script>
+</body>
+</html>

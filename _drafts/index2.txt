@@ -61,17 +61,6 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 
       <!-- Two -->
-      <section id="two" class="spotlight style2 right">
-        <span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>
-        <div class="content">
-          <header>
-            <p>The Department of Statistical Sciences of the University of Padua is looking forward to organizing the next annual Workshop of the joint working group on "Adaptive Designs and Multiple Testing Procedures" of the German and Austro-Swiss Regions of the International Biometric Society.</p>
-          <ul class="actions">
-            <li><a href="#" class="button">Learn More</a></li>
-          </ul>
-        </div>
-        <a href="#three" class="goto-next scrolly">Next</a>
-      </section>
 
       <!-- Three -->
       <section id="three" class="spotlight style3 left">
